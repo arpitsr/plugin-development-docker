@@ -2,7 +2,7 @@ xdebug/*
 !xdebug/.gitkeep
 config/php.ini
 config/config.sh
-plugins/*
+!plugins/*
 !plugins/.gitkeep
 sa-plugins/*
 wordpress/*
